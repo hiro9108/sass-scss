@@ -1,0 +1,22 @@
+{
+  "name": "sass-nyaatours",
+  "version": "1.0.0",
+  "description": "sass demo",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andasan/m-0920-sass-nyaatours.git"
+  },
+  "author": "andasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andasan/m-0920-sass-nyaatours/issues"
+  },
+  "homepage": "https://github.com/andasan/m-0920-sass-nyaatours#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
